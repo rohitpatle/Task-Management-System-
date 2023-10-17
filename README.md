@@ -17,7 +17,7 @@ git clone https://github.com/yourusername/task-management.git
 
 3. Run the program.
 ```bash
-python project.py
+python final_project.py
 ```
 
 ## Files
