@@ -12,7 +12,7 @@ This is a simple task management system implemented in Python. It allows users t
 
 2. Clone this repository to your local machine.
 ```bash
-git clone https://github.com/yourusername/task-management.git
+git clone https://github.com/rohitpatle/Task-Management-System-.git
 ```
 
 3. Run the program.
